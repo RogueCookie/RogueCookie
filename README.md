@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/not ready yeat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="not ready yeat" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/valeriia-vaganova-72419a1b8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="not ready yeat" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/valkiki" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="valkiki" height="30" width="40" /></a>
 <a href="https://vk.com/sklenarikova" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://vk.com/sklenarikova" height="30" width="40" /></a>
 </p>
