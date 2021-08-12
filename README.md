@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [OzExchangeRates](https://github.com/RogueCookie/ExchangeRates)
+- 🔭 I’m currently working on [CurrencyRates](https://github.com/RogueCookie/CurrencyRates)
 
 - 🌱 I’m currently learning **Docker orchestration, RabbitMQ for microservices architecture**
 
